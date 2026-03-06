@@ -1,0 +1,12 @@
+{
+  "league": "NHL",
+  "significance": [],
+  "sections": {
+    "public_note": [
+      {
+        "message": "Detailed validation artifacts remain private in the public GitHub Pages staging build."
+      }
+    ]
+  },
+  "as_of_utc": null
+}
