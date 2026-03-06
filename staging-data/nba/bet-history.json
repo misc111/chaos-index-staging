@@ -1,8 +1,8 @@
 {
   "league": "NBA",
   "summary": {
-    "total_final_games": 1002,
-    "games_with_forecast": 6,
+    "total_final_games": 0,
+    "games_with_forecast": 0,
     "games_with_odds": 0,
     "analyzed_games": 0,
     "suggested_bets": 0,
@@ -13,7 +13,7 @@
     "roi": 0,
     "coverage_start_central": null,
     "coverage_end_central": null,
-    "note": "No finalized games have both a stored pregame forecast snapshot and a matching pregame odds snapshot yet."
+    "note": "No finalized games are available yet."
   },
   "daily_points": [],
   "bets": []
