@@ -1,3 +1,3 @@
 :HL["/chaos-index-staging/_next/static/chunks/c9e2f4d7b49fa353.css","style"]
-:HL["/chaos-index-staging/_next/static/chunks/ef13be2da2f7ba4f.css","style"]
-0:{"buildId":"vNhrleA4GGOS4StrKttmD","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"games-today","paramType":null,"paramKey":"games-today","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
+:HL["/chaos-index-staging/_next/static/chunks/1759b9c3dcdc9f54.css","style"]
+0:{"buildId":"Yrh-f387LnpNIsBLSDlmW","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"games-today","paramType":null,"paramKey":"games-today","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
