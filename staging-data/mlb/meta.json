@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-04-20T21:03:22.629Z",
+  "generated_at_utc": "2026-05-02T15:40:21.469Z",
   "league": "MLB",
   "primary_league": "MLB",
   "shipping_role": "primary",
@@ -11,6 +11,8 @@
     "games-today.json",
     "market-board.json",
     "metrics.json",
+    "current-season-predictiveness.json",
+    "nested-tournament.json",
     "research-desk.json",
     "performance.json",
     "performance.fresh-1d-no-dogs-over-300.json",
