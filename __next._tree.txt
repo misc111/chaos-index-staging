@@ -13,6 +13,8 @@
 :HL["/chaos-index-staging/images/model-sprites/gam_spline.png","image"]
 :HL["/chaos-index-staging/images/model-sprites/dglm_margin.png","image"]
 :HL["/chaos-index-staging/images/model-sprites/mars_hinge.png","image"]
+:HL["/chaos-index-staging/images/model-sprites/type-icons/neural.png","image"]
+:HL["/chaos-index-staging/images/model-sprites/nn_mlp.png","image"]
 :HL["/chaos-index-staging/images/model-sprites/type-icons/count.png","image"]
 :HL["/chaos-index-staging/images/model-sprites/goals_poisson.png","image"]
 :HL["/chaos-index-staging/images/model-sprites/type-icons/context.png","image"]
@@ -21,9 +23,7 @@
 :HL["/chaos-index-staging/images/model-sprites/type-icons/tree.png","image"]
 :HL["/chaos-index-staging/images/model-sprites/rf.png","image"]
 :HL["/chaos-index-staging/images/model-sprites/gbdt.png","image"]
-:HL["/chaos-index-staging/images/model-sprites/type-icons/neural.png","image"]
-:HL["/chaos-index-staging/images/model-sprites/nn_mlp.png","image"]
 :HL["/chaos-index-staging/images/model-sprites/type-icons/bayesian.png","image"]
 :HL["/chaos-index-staging/images/model-sprites/bayes_goals.png","image"]
 :HL["/chaos-index-staging/images/model-sprites/bayes_bt_state_space.png","image"]
-0:{"buildId":"dzN4Iqckef7hNjZcpIzFF","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
+0:{"buildId":"opLvrlrerANSwahnknhd-","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
