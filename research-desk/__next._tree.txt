@@ -1,3 +1,0 @@
-:HL["/chaos-index-staging/_next/static/chunks/81b3629249ed0d27.css","style"]
-:HL["/chaos-index-staging/_next/static/chunks/5a974e029b0e5324.css","style"]
-0:{"buildId":"WTEgJHixLfM8B9MroJLJS","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"research-desk","paramType":null,"paramKey":"research-desk","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}

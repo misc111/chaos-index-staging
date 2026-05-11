@@ -1,3 +1,0 @@
-:HL["/chaos-index-staging/_next/static/chunks/81b3629249ed0d27.css","style"]
-:HL["/chaos-index-staging/_next/static/chunks/5aa0f1f14be736db.css","style"]
-0:{"buildId":"WTEgJHixLfM8B9MroJLJS","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"bet-sizing","paramType":null,"paramKey":"bet-sizing","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
