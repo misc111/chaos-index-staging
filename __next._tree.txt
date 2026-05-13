@@ -18,4 +18,4 @@
 :HL["/chaos-index-staging/team-icons/mlb/atl.png","image"]
 :HL["/chaos-index-staging/team-icons/mlb/stl.png","image"]
 :HL["/chaos-index-staging/team-icons/mlb/mil.png","image"]
-0:{"buildId":"wOu315eLihek11ZDVGLCp","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
+0:{"buildId":"jpjIseDaIq6v_rZ-aUQBr","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
