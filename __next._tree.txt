@@ -1,5 +1,5 @@
 :HL["/chaos-index-staging/_next/static/chunks/c5776104688873e2.css","style"]
-:HL["/chaos-index-staging/_next/static/chunks/c09ef45730f28c95.css","style"]
+:HL["/chaos-index-staging/_next/static/chunks/d2a71dd889b5a891.css","style"]
 :HL["/chaos-index-staging/team-icons/mlb/col.png","image"]
 :HL["/chaos-index-staging/team-icons/mlb/pit.png","image"]
 :HL["/chaos-index-staging/team-icons/mlb/wsh.png","image"]
@@ -22,4 +22,4 @@
 :HL["/chaos-index-staging/team-icons/mlb/cws.png","image"]
 :HL["/chaos-index-staging/team-icons/mlb/sf.png","image"]
 :HL["/chaos-index-staging/team-icons/mlb/lad.png","image"]
-0:{"buildId":"uJXyDXd8UlLLLlKJbWN3-","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
+0:{"buildId":"EXE6TXF6vYWQsgEOmMJ25","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
